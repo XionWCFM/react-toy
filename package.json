@@ -1,0 +1,23 @@
+{
+  "name": "react-toy",
+  "version": "1.0.0",
+  "description": "title is Description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XionWCFM/react-toy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XionWCFM/react-toy/issues"
+  },
+  "homepage": "https://github.com/XionWCFM/react-toy#readme",
+  "dependencies": {
+    "yarn": "^1.22.19"
+  }
+}
